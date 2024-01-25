@@ -3,10 +3,7 @@ package assignment5;
 import java.util.ArrayList;
 
 public class Main {
-//I worked with a partner.
-	//Names of both partners:
-//Sara Nordlicht
-//Penina Rockove
+
 	public static void main(String[] args) {
 		ArrayList<State> states = new ArrayList<>();
 		
