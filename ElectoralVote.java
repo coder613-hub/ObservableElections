@@ -1,8 +1,7 @@
 package assignment5;
 
 public class ElectoralVote {
-	//Sara Nordlicht
-	//Penina Rockove
+	
 	private int demVote, repVote;
 	
 	public ElectoralVote(int dv, int rv) {
