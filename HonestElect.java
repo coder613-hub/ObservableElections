@@ -3,8 +3,7 @@ package assignment5;
 import java.util.ArrayList;
 
 public class HonestElect implements IElectoralVoteStrategy {
-	//Sara Nordlicht
-	//Penina Rockove
+	
 	@Override
 	public ElectoralVote getElectoralStrategy(ArrayList<State> states) {
 		int totalRepVotes = 0;
