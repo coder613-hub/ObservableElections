@@ -1,8 +1,7 @@
 package assignment5;
 
 import java.util.ArrayList;
-//Sara Nordlicht
-//Penina Rockove
+
 public class IgnoreHighestRepState implements IPopularVoteStrategy {
 
 	@Override
