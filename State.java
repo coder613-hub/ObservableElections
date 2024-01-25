@@ -1,6 +1,5 @@
 package assignment5;
-//Sara Nordlicht
-//Penina Rockove
+
 public class State {
 	private String name;
 	private int electoralVotes;
