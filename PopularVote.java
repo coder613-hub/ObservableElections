@@ -1,6 +1,5 @@
 package assignment5;
-//Sara Nordlicht
-//Penina Rockove
+
 public class PopularVote {
 	private int demVote, repVote;
 
