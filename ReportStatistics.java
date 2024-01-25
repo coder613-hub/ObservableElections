@@ -5,8 +5,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.Observable;
 import java.util.Observer;
-//Sara Nordlicht
-//Penina Rockove
+
 public abstract class ReportStatistics implements Observer {
 	IPopularVoteStrategy popStrategy;
 	IElectoralVoteStrategy electStrategy;
