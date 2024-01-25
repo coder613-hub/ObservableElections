@@ -4,8 +4,7 @@ import java.util.ArrayList;
 import java.util.Observable;
 
 public class ElectionStats extends Observable{
-	//Sara Nordlicht
-	//Penina Rockove
+	
 	private ArrayList<State> states;
 	private PopularVote popVote;
 	private ElectoralVote electVote;
