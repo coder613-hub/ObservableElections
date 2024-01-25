@@ -3,8 +3,7 @@ package assignment5;
 import java.util.ArrayList;
 
 public class HonestPop implements IPopularVoteStrategy {
-	//Sara Nordlicht
-	//Penina Rockove
+	
 	@Override
 	public PopularVote getPopularStrategy(ArrayList<State> states) {
 		int totalRepVotes = 0;
