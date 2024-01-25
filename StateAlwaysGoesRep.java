@@ -1,6 +1,5 @@
 package assignment5;
-//Sara Nordlicht
-//Penina Rockove
+
 import java.util.ArrayList;
 
 public class StateAlwaysGoesRep implements IElectoralVoteStrategy {
